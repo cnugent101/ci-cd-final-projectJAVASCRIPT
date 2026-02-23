@@ -80,8 +80,3 @@ echo "Installing dependencies..."
 npm ci
 echo "Running Jest tests..."
 npm test $(params.args)
-
-
-
-
-
